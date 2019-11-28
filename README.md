@@ -1,0 +1,2 @@
+# Skelet
+Minimum startup project

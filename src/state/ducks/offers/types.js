@@ -1,0 +1,3 @@
+export const LOAD_OFFERS_REQUEST = '[chat] LOAD_OFFERS_REQUEST'
+export const LOAD_OFFERS_SUCCESS = '[chat] LOAD_OFFERS_SUCCESS'
+export const LOAD_OFFERS_ERROR = '[chat] LOAD_OFFERS_ERROR'
